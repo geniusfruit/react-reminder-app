@@ -4,4 +4,4 @@ Created with React.js v15 to leran react
 
 See working app:
 
-[![React reminder Pro](https://github.com/lmoroz/react-reminder-pro/blob/master/screen.png?raw=true)](https://lmoroz.github.io/react-reminder-pro/build/index.html)
+[![React reminde**r Pro](https://github.com/geniusfruit/react-reminder-app/blob/master/screen.png?raw=true)](https://geniusfruit.github.io/react-reminder-app/build/index.html)
